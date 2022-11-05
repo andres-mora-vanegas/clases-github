@@ -1,3 +1,3 @@
 function renderFooter(){
-    return "<p>hola soy el footer>";
+    document.querySelector('footer').innerHTML="<p>hola soy el footer>";    
 }
